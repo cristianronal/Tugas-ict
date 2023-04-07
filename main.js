@@ -18,22 +18,22 @@ const colors = document.querySelectorAll(".color");
 // store product info in object
 var info = [
 	{
-		src:"images/products/gelang cyan.png"
+		src:"gelang cyan.png"
 	},
 	{
-		src:"images/products/gelang ungu.png"
+		src:"gelang ungu.png"
 	},
 	{
-		src:"images/products/gelang biru.png"
+		src:"gelang biru.png"
 	},
 	{
-		src:"images/products/gelang pink.png"
+		src:"gelang pink.png"
 	},
 	{
-		src:"images/products/gelang hijau.png"
+		src:"gelang hijau.png"
 	},
 	{
-		src:"images/products/gelang orange.png"
+		src:"gelang orange.png"
 	}
 ]
 // change color
